@@ -1,0 +1,13 @@
+﻿{
+    "name": "Class_Collection_Caleb",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/AustinnK/h3vrCCC",
+    "description": "Progress through tiers of weaponry. Choose wisely because you only gain one token per hold.",
+    "authors": [ 
+        "Austism" 
+    ],
+    "dependencies": [
+        "DeliCollective-Deli-0.4.1",
+        "devyndamonster-TakeAndHoldTweaker-1.7.2"
+    ]
+}
