@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3101855057
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13591d960b1b40aa08fe85381c105d08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 85f65bcc593630cd7553336fb6d297af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bee4208089d7b2f4882b94a18631a9df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38103f792aabdec4e9666e95a979632b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a5df21cfc79a2c42841a7a339b5ca80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d101005cf31f8da408724450358e82aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ecebaa8ff92d9d142b40f9396c3cb927, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/makeshift12g/FVRFireArmRoundDisplayData.asset
+- Assets/makeshift12g/FVRObject.asset
+- Assets/makeshift12g/ItemSpawnerID.asset
+- Assets/makeshift12g/Ammo_12gauge_makeshift.prefab
+Dependencies: []

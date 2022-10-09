@@ -1,0 +1,24 @@
+﻿{
+  "guid": "h3vr.tnhtweaker.classcollectioncooper",
+  "version": "1.0.0",
+  "require": "0.3.0",
+  "dependencies": {
+      "h3vr.tnhtweaker.deli": "1.6.2"
+  },
+  "name": "Class Collection Cooper",
+  "description": "Progress through tiers of weaponry. Roll wisely because you only gain one token per hold. Spawnlock is highly recommended.",
+  "authors": [
+    "Austism"
+  ],
+  "assets": {
+    "patcher": {},
+    "setup": {
+      "ClassCollectionCooper/Sosigs/*sosig*.json": "h3vr.tnhtweaker.deli:sosig",
+      "ClassCollectionCooper/": "h3vr.tnhtweaker.deli:character"
+    },
+    "runtime": {
+      "makeshift12g": "h3vr.otherloader.deli:item"
+    }
+  }
+
+}
