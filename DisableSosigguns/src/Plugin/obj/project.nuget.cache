@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "K92HjSqP3W7p0NiAzRuAjnFXEpjHJG6rUpqIW6F9dzXGYcAHa+ygSQSlQ6NqeP9VFVOqtc3/Quq3AOB9IUoDEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Austin\\Documents\\h3vr characters\\MODS\\DisableSosigguns\\DisableSosigguns-main\\src\\Plugin\\Plugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Austin\\.nuget\\packages\\bepinex.baselib\\5.4.11\\bepinex.baselib.5.4.11.nupkg.sha512",
+    "C:\\Users\\Austin\\.nuget\\packages\\bepinex.core\\5.4.11\\bepinex.core.5.4.11.nupkg.sha512",
+    "C:\\Users\\Austin\\.nuget\\packages\\harmonyx\\2.4.2\\harmonyx.2.4.2.nupkg.sha512",
+    "C:\\Users\\Austin\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Austin\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net35\\1.0.2\\microsoft.netframework.referenceassemblies.net35.1.0.2.nupkg.sha512",
+    "C:\\Users\\Austin\\.nuget\\packages\\mono.cecil\\0.10.4\\mono.cecil.0.10.4.nupkg.sha512",
+    "C:\\Users\\Austin\\.nuget\\packages\\monomod.runtimedetour\\21.4.21.3\\monomod.runtimedetour.21.4.21.3.nupkg.sha512",
+    "C:\\Users\\Austin\\.nuget\\packages\\monomod.utils\\21.4.21.3\\monomod.utils.21.4.21.3.nupkg.sha512",
+    "C:\\Users\\Austin\\.nuget\\packages\\unityengine.core\\5.6.1\\unityengine.core.5.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

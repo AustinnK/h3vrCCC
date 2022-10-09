@@ -1,0 +1,13 @@
+C:\Users\Austin\Documents\h3vr characters\MODS\DisableSosigguns\DisableSosigguns-main\src\Plugin\bin\Release\net35\Plugin.dll
+C:\Users\Austin\Documents\h3vr characters\MODS\DisableSosigguns\DisableSosigguns-main\src\Plugin\bin\Release\net35\Plugin.pdb
+C:\Users\Austin\Documents\h3vr characters\MODS\DisableSosigguns\DisableSosigguns-main\src\Plugin\bin\Release\net35\UnityEngine.dll
+C:\Users\Austin\Documents\h3vr characters\MODS\DisableSosigguns\DisableSosigguns-main\src\Plugin\bin\Release\net35\Assembly-CSharp_publicized.dll
+C:\Users\Austin\Documents\h3vr characters\MODS\DisableSosigguns\DisableSosigguns-main\src\Plugin\bin\Release\net35\MMHOOK_Assembly-CSharp.dll
+C:\Users\Austin\Documents\h3vr characters\MODS\DisableSosigguns\DisableSosigguns-main\src\Plugin\obj\Release\net35\Plugin.csproj.AssemblyReference.cache
+C:\Users\Austin\Documents\h3vr characters\MODS\DisableSosigguns\DisableSosigguns-main\src\Plugin\obj\Release\net35\Plugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Documents\h3vr characters\MODS\DisableSosigguns\DisableSosigguns-main\src\Plugin\obj\Release\net35\Plugin.AssemblyInfoInputs.cache
+C:\Users\Austin\Documents\h3vr characters\MODS\DisableSosigguns\DisableSosigguns-main\src\Plugin\obj\Release\net35\Plugin.AssemblyInfo.cs
+C:\Users\Austin\Documents\h3vr characters\MODS\DisableSosigguns\DisableSosigguns-main\src\Plugin\obj\Release\net35\Plugin.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Documents\h3vr characters\MODS\DisableSosigguns\DisableSosigguns-main\src\Plugin\obj\Release\net35\Plugin.csproj.CopyComplete
+C:\Users\Austin\Documents\h3vr characters\MODS\DisableSosigguns\DisableSosigguns-main\src\Plugin\obj\Release\net35\Plugin.dll
+C:\Users\Austin\Documents\h3vr characters\MODS\DisableSosigguns\DisableSosigguns-main\src\Plugin\obj\Release\net35\Plugin.pdb
